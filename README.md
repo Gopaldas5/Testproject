@@ -1,2 +1,0 @@
-# Testproject
-Home automation test
